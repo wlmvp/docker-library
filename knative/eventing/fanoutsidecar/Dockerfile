@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/fanoutsidecar@sha256:e14cd81992483466efdf299924739c64256ab7705e8f8622063137566dd5772d
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/fanoutsidecar@sha256:d3444f6de28779fe9b4e626a428e0f3b9c13d13127d34c5e66e80a61a412e49b
 MAINTAINER wl

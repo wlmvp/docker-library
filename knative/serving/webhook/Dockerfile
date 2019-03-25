@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/webhook@sha256:b5b103242842f726d0292b3fb6add876ef97983852c176a81d42bbbe3d6ac932
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/webhook@sha256:e1a762e1d4f07d3a8420f8e3b014c1213e93cc8f1d3fecb25219091e2f3650e2
 MAINTAINER wl

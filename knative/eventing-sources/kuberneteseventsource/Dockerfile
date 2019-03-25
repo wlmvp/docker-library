@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/kuberneteseventsource@sha256:0b73afb46a676776f059c8999c5c56a6db4a0267b9e67e868737ae59fc4992b6
+MAINTAINER wl
