@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/build/cmd/git-init@sha256:bef1d2d1fbaa80a130fb322dbfe3895ae17ce8e74921762e5b16a24157896105
+FROM gcr.io/knative-releases/github.com/knative/build/cmd/git-init@sha256:09f22919256ba4f7451e4e595227fb852b0a55e5e1e4694cb7df5ba0ad742b23
 MAINTAINER wl

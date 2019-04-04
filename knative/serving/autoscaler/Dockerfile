@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/autoscaler@sha256:e15ecb349116055dc67deb95b7c5adf83b0dfc892aaea1f78d15f09e4824eb0d
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/autoscaler@sha256:442f99e3a55653b19137b44c1d00f681b594d322cb39c1297820eb717e2134ba
 MAINTAINER wl
