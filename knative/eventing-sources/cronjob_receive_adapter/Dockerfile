@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/cronjob_receive_adapter@sha256:ce1c64dfcb372574280270541dd23e816cffb59b15f6ae03f3e8176c25e795fd
+FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/cronjob_receive_adapter@sha256:c4400e87b6e6ea22b7d7d14df6b620c06b4e219260c6ce2ceb79fef004b9e54c
 MAINTAINER wl

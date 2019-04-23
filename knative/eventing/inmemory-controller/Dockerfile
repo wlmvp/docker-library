@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/pkg/provisioners/inmemory/controller@sha256:5c15035b1cd7b731ffc935418f3b9cc19013865dbad7e9773c178703365f9970
+FROM gcr.io/knative-releases/github.com/knative/eventing/pkg/provisioners/inmemory/controller@sha256:3e4287fba1447d82b80b5fd87983609ba670850c4d28499fe7e60fb87d04cc53
 MAINTAINER wl

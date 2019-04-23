@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/kuberneteseventsource@sha256:0b73afb46a676776f059c8999c5c56a6db4a0267b9e67e868737ae59fc4992b6
+FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/kuberneteseventsource@sha256:1dde37f4f7f5e7286a5bd2c9fa93fecaddc1e2bde85c75a9c0a656fd8770370c
 MAINTAINER wl

@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/broker/ingress@sha256:de17315b7811477df9630c25ec69026bcaad431356ddfca307103fc033eef2f5
+MAINTAINER wl

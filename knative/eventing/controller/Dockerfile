@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/controller@sha256:b034db67e6445939a332f0f9d2ed5f38cb4c1dad06df107966e9773ab2be8ecd
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/controller@sha256:de1727c9969d369f2c3c7d628c7b8c46937315ffaaf9fe3ca242ae2a1965f744
 MAINTAINER wl

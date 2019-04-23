@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/broker/filter@sha256:a488b9ce224c56bdad9099fd1cff95f4949db1b606357394bd72a64ed1fc5de8
+MAINTAINER wl
